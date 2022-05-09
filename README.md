@@ -11,6 +11,8 @@ A mudança de *row* para *column* geralmente acontece quando estamos definindo o
 flex-direction: row;
 ```
 
+> Os itens ficam em linha.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
