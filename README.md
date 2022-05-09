@@ -3,6 +3,8 @@
 
 ***Conteúdo da Aula:***
 
+Define a direção dos flex itens. Por padrao ele e *row* (linha), por isso quando o `display: flex;` e adicionado, os elementos ficam em linha, um do lado do outro.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
