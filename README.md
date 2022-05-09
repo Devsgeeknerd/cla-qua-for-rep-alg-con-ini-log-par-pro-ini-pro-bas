@@ -25,6 +25,10 @@ flex-direction: column;
 
 > Os itens ficam em uma única coluna, um abaixo do outro.
 
+```css
+flex-direction: column-reverse;
+```
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
