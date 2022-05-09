@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Flex Direction
 
-<!-- ***Conteúdo:*** -->
+***Conteúdo da Aula:***
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
