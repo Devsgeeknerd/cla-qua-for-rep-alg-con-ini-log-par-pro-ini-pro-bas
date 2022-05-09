@@ -7,6 +7,10 @@ Define a direção dos flex itens. Por padrão ele e *row* (linha), por isso qua
 
 A mudança de *row* para *column* geralmente acontece quando estamos definindo os estilos em *media queries* para *mobile*. Assim voce garante que o conteúdo seja apresentado em coluna única.
 
+```css
+flex-direction: row;
+```
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
