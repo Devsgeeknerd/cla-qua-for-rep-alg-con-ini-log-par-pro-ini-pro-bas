@@ -32,7 +32,7 @@ flex-direction: column-reverse;
 > Os itens ficam em uma única coluna, um abaixo do outro, mas em ordem reversa.
 
 <!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+## TABELA DE CONTEÚDO
 
 <!-- * [Vista por cima](#vista-por-cima) -->
 <!--  * [Foto da tela](#foto-da-tela) -->
@@ -44,7 +44,7 @@ flex-direction: column-reverse;
 <!--  * [Recursos úteis](#recursos-úteis) -->
 <!-- * [Autor](#autor) -->
 <!-- * [Agradecimentos](#agradecimentos) -->
-<!-- * [Informações](#informações) -->
+* [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
