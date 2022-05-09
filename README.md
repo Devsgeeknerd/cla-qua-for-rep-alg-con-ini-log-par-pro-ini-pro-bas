@@ -23,6 +23,8 @@ flex-direction: row-reverse;
 flex-direction: column;
 ```
 
+> Os itens ficam em uma única coluna, um abaixo do outro.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
