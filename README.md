@@ -3,9 +3,9 @@
 
 ***Conteúdo da Aula:***
 
-Define a direção dos flex itens. Por padrao ele e *row* (linha), por isso quando o `display: flex;` e adicionado, os elementos ficam em linha, um do lado do outro.
+Define a direção dos flex itens. Por padrão ele e *row* (linha), por isso quando o `display: flex;` e adicionado, os elementos ficam em linha, um do lado do outro.
 
-A mudanca de *row* para *column* geralmente acontece quando estamos definindo os estilos em *media queries* para *mobile*. Assim voce garante que o conteudo seja apresentado em coluna unica.
+A mudança de *row* para *column* geralmente acontece quando estamos definindo os estilos em *media queries* para *mobile*. Assim voce garante que o conteúdo seja apresentado em coluna única.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
