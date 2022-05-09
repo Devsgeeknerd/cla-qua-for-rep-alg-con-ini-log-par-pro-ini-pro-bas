@@ -13,6 +13,10 @@ flex-direction: row;
 
 > Os itens ficam em linha.
 
+```css
+flex-direction: row-reverse;
+```
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
