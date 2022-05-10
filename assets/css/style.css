@@ -17,7 +17,9 @@ h1 {
     display: flex;
 }
 
-.item {}
+.item {
+    background-color: #ff6347;
+}
 
 .row {
     flex-direction: row;
