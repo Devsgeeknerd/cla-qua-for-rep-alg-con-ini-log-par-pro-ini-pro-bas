@@ -17,4 +17,6 @@ h1 {
     display: flex;
 }
 
-.row {}
+.row {
+    flex-direction: row;
+}
