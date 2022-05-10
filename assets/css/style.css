@@ -17,6 +17,8 @@ h1 {
     display: flex;
 }
 
+.item {}
+
 .row {
     flex-direction: row;
 }
