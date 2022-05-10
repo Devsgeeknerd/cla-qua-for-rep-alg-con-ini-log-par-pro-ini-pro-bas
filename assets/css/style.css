@@ -24,3 +24,5 @@ h1 {
 .row-reverse {
     flex-direction: row-reverse;
 }
+
+.column {}
