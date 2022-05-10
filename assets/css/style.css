@@ -29,4 +29,6 @@ h1 {
     flex-direction: column;
 }
 
-.column-reverse {}
+.column-reverse {
+    flex-direction: column-reverse;
+}
